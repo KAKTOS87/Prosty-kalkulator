@@ -1,0 +1,27 @@
+body
+{
+background-color: 	#DC143C;
+font-family: Verdana;
+font-size: 24px;
+color: white;
+}
+h1 {
+    color: black;
+    text-align: center;
+  }
+  h2 {
+    color: white;
+    text-align: center;
+  }
+
+  
+  button {
+    background-color: #8b14cf; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
